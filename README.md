@@ -2,7 +2,8 @@
 
 My name is Eitan Wajsberg, I'm from Argentina.
 
-* Currently studing in the last year of high school
+* Finished High School education.
+* Currently starting university life.
 
 ## Skills
 

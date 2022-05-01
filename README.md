@@ -11,8 +11,7 @@ My name is Eitan Wajsberg, I'm from Argentina.
 * Kotlin
 * CSS
 * HTML
-* React
-* Python
+* C++
 * Figma
 * Firebase
 
